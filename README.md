@@ -145,6 +145,7 @@ En esta consulta:
 Un Data Lake es como un gran almacén donde puedes guardar todo tipo de datos, ya sean estructurados (como bases de datos), semiestructurados (como archivos JSON) o no estructurados (como videos y textos). La magia de los Data Lakes es que no necesitas procesar o estructurar los datos antes de almacenarlos. Puedes guardarlos tal cual y procesarlos cuando los necesites.
 
 Aplicaciones de los Data Lakes
+
 Los Data Lakes tienen muchas aplicaciones interesantes:
 
 Análisis de Big Data: Las empresas pueden almacenar y analizar grandes volúmenes de datos para tomar decisiones más informadas. Por ejemplo, Amazon utiliza Data Lakes para analizar el comportamiento de compra de sus clientes y mejorar sus recomendaciones de productos.
